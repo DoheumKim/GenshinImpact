@@ -1,4 +1,0 @@
-저자: DoheumKim
-
-무기 해쉬값
-https://github.com/SilentNightSound/GI-Model-Importer-Assets/blob/main/WeaponData
